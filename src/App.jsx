@@ -148,7 +148,7 @@ function App() {
                   setErrors({ ...errors, queryType: false });
                 }}
               />
-              <label htmlFor="enquiry">Pleaz select a query type</label>
+              <label htmlFor="enquiry">General Enquiry</label>
             </div>
 
             <div
